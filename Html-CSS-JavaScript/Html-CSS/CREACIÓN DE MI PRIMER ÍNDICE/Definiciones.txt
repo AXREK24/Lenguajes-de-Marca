@@ -1,0 +1,6 @@
+Definiciones de Diseño Web
+HTML (HyperText Markup Language): Es un lenguaje de marcado (no un lenguaje de programación) utilizado para crear la presentación de documentos y páginas en la web. Funciona mediante el uso de etiquetas para estructurar el contenido, el cual suele alojarse en servidores web que envían las páginas al cliente cuando este las solicita.
+
+XML (eXtensible Markup Language): Es un lenguaje de marcado estricto que desciende de SGML y sirve como base estructural para otros lenguajes como XHTML. A diferencia de HTML, XML es sensible a las mayúsculas y minúsculas, por lo que requiere que todos los elementos y atributos se escriban obligatoriamente en minúsculas para que el documento esté bien formado.
+
+JSON (JavaScript Object Notation): Es un formato de texto ligero y estructurado para el intercambio de datos. Es independiente del lenguaje, fácil de leer y escribir para los humanos, y sencillo de analizar y generar para las máquinas. (Nota: Definición proporcionada a partir de conocimientos generales, ya que no se especifica en el material base).
